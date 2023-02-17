@@ -1,0 +1,8 @@
+{
+    "username":"rishab",
+    "email":"rkc3660@gmail.com",
+    "password":"123456",
+    "location":"Dhanbad",
+    "DOB":"24.08.2004",
+    "role":"Admin"
+}
